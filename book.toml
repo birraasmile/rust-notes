@@ -1,0 +1,6 @@
+[book]
+authors = ["birraasmile"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust notes"
